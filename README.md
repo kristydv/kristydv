@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats for Salsa Devs
+
+Stu
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=stooit)](https://github.com/LordDashMe/github-contribution-stats/)
+
+Kristy
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kristydv)](https://github.com/LordDashMe/github-contribution-stats/)
+
+Greg
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=klonos)](https://github.com/LordDashMe/github-contribution-stats/)
+
+Sonny
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sonnykt)](https://github.com/LordDashMe/github-contribution-stats/)
+
